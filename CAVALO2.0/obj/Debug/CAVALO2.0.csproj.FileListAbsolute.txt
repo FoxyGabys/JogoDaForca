@@ -1,0 +1,16 @@
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.csprojResolveAssemblyReference.cache
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2._.MainForm.resources
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.csproj.GenerateResource.Cache
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\bin\Debug\CAVALO2.0.exe.config
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\bin\Debug\CAVALO2.0.exe
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\bin\Debug\CAVALO2.0.pdb
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.exe
+U:\Projetos TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.pdb
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\bin\Debug\CAVALO2.0.exe.config
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\bin\Debug\CAVALO2.0.exe
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\bin\Debug\CAVALO2.0.pdb
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2._.MainForm.resources
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.exe
+C:\Users\Asus\Documents\C# Codes Gaby\Projetos_TPA\CAVALO2.0\CAVALO2.0\obj\Debug\CAVALO2.0.pdb
